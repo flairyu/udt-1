@@ -16,7 +16,7 @@ function(gtest_unpack_archive)
 
   # Extract GTest archive
   external_search_source_path(
-    NAME "gtest"
+    NAME "googletest"
     VAR "GTEST_UNPACK_DIR"
     CLUES "README"
   )

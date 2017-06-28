@@ -58,10 +58,10 @@ cd PROJECT_PATH
 cp boost_1_XX_Y.tar.bz2 PROJECT_PATH/third_party/boost
 ```
 
-* CopyCopy [GTest archive](http://code.google.com/p/googletest/downloads/list) in ``third_party/gtest``
+* CopyCopy [GTest archive](https://github.com/google/googletest/releases) in ``third_party/googletest``
 
 ```bash
-cp gtest-1.X.Y.zip PROJECT_PATH/third_party/gtest
+cp googletest-release-1.X.Y.tar.gz PROJECT_PATH/third_party/googletest
 ```
 
 * Generate project
