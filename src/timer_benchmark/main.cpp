@@ -2,6 +2,7 @@
 #include <iostream>
 
 #include <boost/accumulators/accumulators.hpp>
+#include <boost/serialization/array_wrapper.hpp>
 #include <boost/accumulators/statistics.hpp>
 #include <boost/chrono.hpp>
 
